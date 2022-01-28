@@ -10,7 +10,7 @@ Olá, me chamo Ricardo Dias!
   <img align="center" alt="Rick-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Rick-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rick-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Rick-Csharp" height="30" width="40" src=" src="https://img.icons8.com/color/48/000000/c-programming.png">
+  <img align="center" alt="Rick-Csharp" height="30" width="40" src="https://img.icons8.com/color/48/000000/c-programming.png">
   <img align="center" alt="Rick-Csharp" height="30" width="40" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png">
   
 </div>
